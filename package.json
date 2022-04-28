@@ -1,0 +1,22 @@
+{
+  "name": "auto-reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
+    "image-data-uri": "^1.0.0",
+    "ioredis": "^5.0.4",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "quickchart-js": "^3.0.1",
+    "telegraf": "4.0"
+  }
+}
